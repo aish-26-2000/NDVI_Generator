@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/ndvi_generator" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
